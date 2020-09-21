@@ -34,22 +34,7 @@ function rate = KNN(Train_data,Train_label,Test_data,Test_label,k,Distance_mark)
 %
 % If you used my matlab code, we appreciate it very much if you can cite our following papers:
 % Jie Gui, Tongliang Liu, Dacheng Tao, Zhenan Sun, Tieniu Tan, "Representative Vector Machines: A unified framework for classical classifiers", IEEE  
-% Transactions on Cybernetics (Accepted).
-% Jie Gui et al., "Group sparse multiview patch alignment framework with view consistency for image classification", IEEE Transactions on Image Processing, vol. 23, no. 7, pp. 3126-3137, 2014
-% Jie Gui et al., "How to estimate the regularization parameter for spectral regression
-% discriminant analysis and its kernel version?", IEEE Transactions on Circuits and 
-% Systems for Video Technology, vol. 24, no. 2, pp. 211-223, 2014
-% Jie Gui, Zhenan Sun, Wei Jia, Rongxiang Hu, Yingke Lei and Shuiwang Ji, "Discriminant
-% Sparse Neighborhood Preserving Embedding for Face Recognition", Pattern Recognition, 
-% vol. 45, no.8, pp. 2884¨C2893, 2012
-% Jie Gui, Wei Jia, Ling Zhu, Shuling Wang and Deshuang Huang, 
-% "Locality Preserving Discriminant Projections for Face and Palmprint Recognition," 
-% Neurocomputing, vol. 73, no.13-15, pp. 2696-2707, 2010
-% Jie Gui et al., "Semi-supervised learning with local and global consistency", 
-% International Journal of Computer Mathematics (Accepted)
-% Jie Gui, Shu-Lin Wang, and Ying-ke Lei, "Multi-step Dimensionality Reduction and 
-% Semi-Supervised Graph-Based Tumor Classification Using Gene Expression Data," 
-% Artificial Intelligence in Medicine, vol. 50, no.3, pp. 181-191, 2010
+% Transactions on Cybernetics.
     
 %This code is written by Gui Jie in the evening 2009/03/11.
 %If you have find some bugs in the codes, feel free to contract me
